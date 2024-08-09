@@ -1,0 +1,44 @@
+.border{
+    border: 2px solid red;
+    margin: 3px;
+}
+
+.flex{
+    display: flex;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center{
+    align-items: center;
+}
+.p-1{
+    padding: 10px;
+}
+
+/* For WebKit-based browsers (Chrome, Safari, Edge) */
+::-webkit-scrollbar {
+    width: 12px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+    background: #2e2e2e; /* Dark background of the track */
+    border-radius: 10px; /* Optional: Rounded corners for the track */
+}
+
+ ::-webkit-scrollbar-thumb { 
+    background: #555; 
+    /* Dark gray for the scrollbar thumb */ 
+    border-radius: 10px; 
+    /* Optional: Rounded corners for the thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #777; /* Lighter gray when hovering over the thumb */
+} */
+
+/* For Firefox */
+* {
+    scrollbar-width: thin; /* Make the scrollbar thin */
+    scrollbar-color: #555 #2e2e2e; /* Thumb color and track color */
+}
