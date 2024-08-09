@@ -16,7 +16,7 @@ const songs = [
     },
     {
         title: 'maan meri jaan',
-        song: './songs/maan meri jaan .mp3',
+        song: './song/maan meri jaan .mp3',
         img: './assets/images/img-12.jpg'
     },
     {
@@ -26,7 +26,7 @@ const songs = [
     },
     {
         title: 'pyaar hota hai kai baar',
-        song: './songs/pyaar hota hai kai baar .mp3',
+        song: './song/pyaar hota hai kai baar .mp3',
         img: './assets/images/img-11.jpg'
     },
     {
@@ -34,26 +34,26 @@ const songs = [
         song: './songs/rang lageya.mp3',
         img: './assets/images/img-9.jpg'
     },
-    // {
-    //     title: 'saware',
-    //     song: './songs/saware.mp3',
-    //     img: './assets/images/img-7.jpg'
-    // },
-    // {
-    //     title: 'Show Me The Thumka',
-    //     song: './songs/Show Me The Thumka.mp3',
-    //     img: './assets/images/img-5.jpg'
-    // },
-    // {
-    //     title: 'Summertime Sadness',
-    //     song: './songs/Summertime Sadness.mp3',
-    //     img: './assets/images/img-4.jpg'
-    // },
-    // {
-    //     title: 'Tere Pyar Mein',
-    //     song: './songs/Tere Pyar Mein.mp3',
-    //     img: './assets/images/img-8.jpg'
-    // }
+    {
+        title: 'saware',
+        song: './song/saware.mp3',
+        img: './assets/images/img-7.jpg'
+    },
+    {
+        title: 'Show Me The Thumka',
+        song: './song/Show Me The Thumka.mp3',
+        img: './assets/images/img-5.jpg'    
+    },
+    {
+        title: 'Summertime Sadness',
+        song: './song/Summertime Sadness.mp3',
+        img: './assets/images/img-4.jpg'
+    },
+    {
+        title: 'Tere Pyar Mein',
+        song: './song/Tere Pyar Mein.mp3',
+        img: './assets/images/img-8.jpg'
+    }
     // Add more songs as needed
 ];
 
