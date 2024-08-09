@@ -16,7 +16,7 @@ const songs = [
     },
     {
         title: 'maan meri jaan',
-        song: './song/maan meri jaan .mp3',
+        song: './songs/maan meri jaan .mp3',
         img: './assets/images/img-12.jpg'
     },
     {
@@ -26,7 +26,7 @@ const songs = [
     },
     {
         title: 'pyaar hota hai kai baar',
-        song: './song/pyaar hota hai kai baar .mp3',
+        song: './songs/pyaar hota hai kai baar .mp3',
         img: './assets/images/img-11.jpg'
     },
     {
